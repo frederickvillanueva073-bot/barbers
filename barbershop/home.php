@@ -40,7 +40,7 @@ $totalSales = $rowSales['total'];
 <body>
 
     <nav>
-        <span class="brand">Barbershop</span>
+        <span class="brand">Baldbershop ✄</span>
                 <a href="home.php" class="active">Home</a>
             <a href="customer.php">Customers</a>
             <a href="barbers.php">Barbers</a>
