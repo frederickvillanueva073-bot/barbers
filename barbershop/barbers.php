@@ -16,7 +16,7 @@ $resultBarbers = mysqli_query($conn, "SELECT * FROM barbers");
 
 <body>
     <nav>
-        <span class="brand">Barbershop</span>
+        <span class="brand">Baldbershop ✄</span>
        <a href="home.php" >Home</a>
             <a href="customer.php">Customers</a>
             <a href="barbers.php"class="active">Barbers</a>
