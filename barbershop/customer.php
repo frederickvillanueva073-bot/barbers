@@ -3,9 +3,6 @@ include "db_connect.php";
 $resultCustomers = mysqli_query($conn, "SELECT * FROM customers");
 ?>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,9 +15,9 @@ $resultCustomers = mysqli_query($conn, "SELECT * FROM customers");
 
 <body>
     <nav>
-        <span class="brand">Barbershop</span>
+        <span class="brand">Baldbershop ✄</span>
             <a href="home.php" >Home</a>
-            <a href="customer.php "class="active">Customers</a>
+            <a href="customer.php class="active">Customers</a>
             <a href="barbers.php">Barbers</a>
             <a href="queue.php">Queue</a>
             
